@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-26T15:38:29.546Z'
-dateModified: '2015-12-26T15:38:29.044Z'
+datePublished: '2015-12-26T15:50:11.950Z'
+dateModified: '2015-12-26T15:50:06.022Z'
 title: model slide
 author: []
 sourcePath: _posts/2015-12-26-model-slide.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: model-slide/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9166efe-9d50-464d-a06a-156b264d296b.jpg)
