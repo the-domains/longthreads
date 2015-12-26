@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: header desc
-datePublished: '2015-12-26T13:33:57.957Z'
-dateModified: '2015-12-26T13:33:40.499Z'
+datePublished: '2015-12-26T17:51:48.563Z'
+dateModified: '2015-12-26T17:51:41.446Z'
 title: Long Stylish and Slim Jeans For the Fashion Forward Tall Man
 author: []
 authors: []
