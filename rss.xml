@@ -4,8 +4,15 @@
         <description><![CDATA[LONG THREADS]]></description>
         <link>https://thegrid.ai/longthreads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 13:40:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2015 13:40:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/longthreads/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What We Do]]></title>
+            <description><![CDATA[<article><h1>What We Do</h1><p>What we do</p></article>]]></description>
+            <link>https://thegrid.ai/longthreads/what-we-do/index.html</link>
+            <guid isPermaLink="false">4981c04c-711e-4839-8d3b-b29a93aea04a</guid>
+            <pubDate>Sat, 26 Dec 2015 13:39:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About]]></title>
             <description><![CDATA[<h1>About</h1>]]></description>
