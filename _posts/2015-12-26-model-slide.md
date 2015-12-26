@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-26T15:50:11.950Z'
-dateModified: '2015-12-26T15:50:06.022Z'
+datePublished: '2015-12-26T15:56:05.168Z'
+dateModified: '2015-12-26T15:50:11.950Z'
 title: model slide
 author: []
 sourcePath: _posts/2015-12-26-model-slide.md
