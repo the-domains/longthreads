@@ -1,0 +1,28 @@
+name: longthreads
+favicon: null
+layout_spectrum: 0.4041547868400812
+typography_spectrum: 0.044217331102117896
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.865389432059601
+  lightness: 0.22829849342815578
+  saturation: 0.7249547673854977
+  rhythmicContrast: 0.9848821808118373
+purpose: []
