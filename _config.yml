@@ -1,7 +1,7 @@
 name: longthreads
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.044217331102117896
+typography_spectrum: 0.77308
 title: LONG THREADS
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.865389432059601
-  lightness: 0.22829849342815578
-  saturation: 0.7249547673854977
-  rhythmicContrast: 0.9848821808118373
+  brandStrength: 0.125
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
